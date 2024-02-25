@@ -1,0 +1,8 @@
+
+
+  Certification
+    ✔ Should mint and transfer a new NFT to someone (1145ms)
+
+
+  1 passing (1s)
+
